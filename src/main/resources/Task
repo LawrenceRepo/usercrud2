@@ -1,0 +1,63 @@
+
+Spring Boot App
+
+Please develop a simple Spring Boot App. 
+
+A boilerplate can be created on the website https://start.spring.io/ for a quick start.
+
+The following issues need to be solved:
+
+1)  Implementation in Java
+
+2)  Using Undertow (http://undertow.io/) or Jetty(https://www.eclipse.org/jetty/) as a web server
+
+3)  Use of an embedded database
+
+4)  Two configurations for Dev and Prod as Spring profiles.
+
+-> Dev -> Port 8000
+
+-> Prod -> Port 9000
+
+
+what is the advantage of doing this? No. 4 : 
+
+
+
+5)  Implementation of an entity -> User (last name, first name, e-mail).
+
+6)  Implementation API -> UserController with CRUD operations.
+
+7)  Data should be persisted in the database.
+
+8)  Implementation API -> Give me all users with a given first name.
+
+9)  Implementation API -> Give me all users with a given last name.
+
+Source code is to be made available via Github, Gitlab or as a zip file.
+
+
+
+
+=====================================================================================
+
+
+Spring Boot App
+
+Bitte entwickle eine einfache Spring Boot App. Auf der Webseite https://start.spring.io/ kann ein Boilerplate für einen schnellen Start erstellt werden.
+Folgende Punkte müssen gelöst werden:
+
+●	Implementierung in Java
+●	Verwendung von Undertow (http://undertow.io/) oder Jetty(https://www.eclipse.org/jetty/) als Webserver
+●	Verwendung einer embedded Datenbank
+
+●	Zwei Konfigurationen für Dev und Prod als Spring Profile
+○	Dev -> Port 8000
+○	Prod -> Port 9000
+
+●	Implementierung einer Entity -> User (Name, Vorname, E-Mail)
+●	Implementierung API -> UserController mit CRUD Operationen
+○	Daten sollen in der Datenbank persistiert werden
+●	Implementierung API -> Gib mir alle User mit einem vorgegebenem Vornamen.
+
+Der Quellcode soll über Github, Gitlab oder als zip-Datei zur Verfügung gestellt werden.
